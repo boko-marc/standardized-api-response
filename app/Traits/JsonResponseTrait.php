@@ -15,7 +15,7 @@ use Illuminate\Http\Response;
  * making it easier and more consistent to handle responses in your application.
  *
  *  */
-class JsonResponseTrait
+trait JsonResponseTrait
 {
 
     /**
